@@ -1,4 +1,4 @@
-#THIS UPDATER REQUIRES [POWERSHELL 7](https://github.com/powershell/powershell/releases/latest)
+# THIS UPDATER REQUIRES [POWERSHELL 7](https://github.com/powershell/powershell/releases/latest)
 
 This is a standalone cli-based updater I made to autoupdate my PolyMC on Windows.
 
