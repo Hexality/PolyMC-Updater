@@ -8,3 +8,7 @@ I didn't test this on other machines, use at your own risk.
 > Drag both files on PolyMC's root folder.
 
 > You can copy the updater.lnk to wherever u want.
+
+### What it does?
+> The updater checks for updates on script launch, if a new update is available, it asks you if you want to update or not. If no updates are available or you postpone the update, it imediately opens polymc and closes the script.
+>> Note: a pwsh instance keeps running in windowless mode as a background process cause it was the only way I found to be able to close the main script as polymc's outputs a lot of crap when ran through cli (PolyMC contributors, please make it outputless if no --verbose is provided lol).
