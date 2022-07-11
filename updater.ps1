@@ -1,4 +1,5 @@
 $PSDefaultParameterValues['*:Encoding'] = 'ascii'
+Install-Module PSWriteColor
 Import-Module PSWriteColor
 $global:ProgressPreference="SilentlyContinue"
 
